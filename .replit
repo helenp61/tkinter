@@ -1,4 +1,4 @@
-entrypoint = "04_greetings.py"
+entrypoint = "07_greetings_using_pack.py"
 modules = ["python-3.11:v23-20240125-d91747b"]
 
 hidden = [".pythonlibs"]
